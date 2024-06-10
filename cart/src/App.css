@@ -1,0 +1,116 @@
+body{
+  background-color: bisque;
+}
+.Block{
+  height: 158px;
+  width: 1230px;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 10px;
+  
+}
+img{
+  height: 100%;
+
+}
+button{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.items{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.bag{
+  justify-content: center;
+  width: 1230px;
+  text-shadow: #FC0 1px 0 10px;
+  /* color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue; */
+
+}
+.Total{
+  font-weight: bold;
+  
+
+}
+.head{
+  /* color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue; */
+  text-shadow: #FC0 1px 0 10px;
+  width: 20%;
+  padding: 5px;
+  /* text-align: center; */
+
+}
+.er{
+  width: 40%;
+  justify-content: left;
+ 
+}
+header{
+  padding: 8px;
+  display: flex;
+  border: 2px solid;
+  height: 160px;
+  background-color: rgb(233, 192, 141)
+}
+.Icon{
+
+  font-size: 50px;
+  margin-right: 60px;
+  margin-top: 55px;
+}
+h1{
+  font-size: 60px;
+
+}
+button{
+  font-size: 30px;
+  background-color: beige;
+}
+.info{
+  text-align:left ;
+  font-size: 18px;
+}
+.remove{
+  cursor: pointer;
+  color: blue;
+}
+.Incre{
+  font-size: 40px;
+  /* margin-top: 26px; */
+}
+.Decre{
+  font-size: 40px;
+}
+.ADD{
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: right;
+  text-align: right; */
+width: 50%;
+/* border: 1px solid; */
+}
+/* .ADDREMOVE h4{
+  font-size: 25px;
+  margin: 0px; */
+/* } */
+.info1{
+  width: 50%;
+  display: flex;
+
+}
+
+
+
+
+
+
